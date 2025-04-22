@@ -1,6 +1,7 @@
 Car Prices Analysis Project
 Overview
-This project analyzes car sales data and economic trends from 2019-2023. The dataset includes information on car prices, sales figures, inflation rates, and other relevant metrics. The analysis uses Python (Pandas, Matplotlib, Seaborn) for data manipulation and visualization, and PostgreSQL for data storage and querying.
+This project analyzes car sales data and economic trends from 2019-2023 in the USA, focusing on the Toyota Camry. The dataset includes information on car prices, sales figures, inflation rates, and other relevant metrics. The analysis uses Python (Pandas, Matplotlib, Seaborn) for data manipulation and visualization, and PostgreSQL for data storage and querying.
+
 
 Steps in PgAdmin
 1. Set Up PostgreSQL Database
